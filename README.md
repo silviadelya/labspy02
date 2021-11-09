@@ -11,7 +11,7 @@ tersebut tampilkan bilangan terbesarnya.
 
 ![Gambar 1](screenshot/2.png)
 
-Pada program di atas merupakan program untuk mecari bilangan tebesar dari tiga buah bilangan.
+Pada program di atas merupakan program untuk mencari bilangan tebesar dari tiga buah bilangan.
 
 1. Menginput tiga buah bilangan.
 
