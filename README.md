@@ -5,7 +5,7 @@ tersebut tampilkan bilangan terbesarnya.
 
 <h3>Flowchart</h3>
 
-![img] screenshot/3.jpg
+![Gambar 0](screenshot/3.jpg)
 
 <h3>Program</h3>
 
