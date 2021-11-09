@@ -3,11 +3,11 @@
 Membuat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan
 tersebut tampilkan bilangan terbesarnya.
 
-<h3>Flowchart</h3>
+<h2>-Flowchart-</h2>
 
 ![Gambar 0](screenshot/3.jpg)
 
-<h3>Program</h3>
+<h2>-Program-</h2>
 
 ![Gambar 1](screenshot/2.png)
 
@@ -29,8 +29,8 @@ Pada program di atas merupakan program untuk mecari bilangan tebesar dari tiga b
 
 4. Jika di luar dari statement diatas maka yang akan ditampilkan adalah "Angka Ketiga Lebih Besar".
 
-<h3>Output Program</h3>
+<h2>-Output Program-</h2>
 
-![img] screenshot/1.png
+![Gambar 4](screenshot/1.png)
 
 <h3>Sekian Terimakasih</h3>
