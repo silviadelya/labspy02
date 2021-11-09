@@ -16,7 +16,7 @@ Pada program di atas merupakan program untuk mecari bilangan tebesar dari tiga b
 1. Menginput tiga buah bilangan.
 
 2. Pada statement :
-    ![img]
+    ![img] screenshot/4.png
     Jika bilangan pertama lebih besar dari bilangan kedua dan bilangan pertama lebih besar dari bilangan ketiga, maka hasil yang akan ditampilkan adalah "Angka Pertama Lebih Besar".
 
 3. Pada statement :
@@ -28,3 +28,5 @@ Pada program di atas merupakan program untuk mecari bilangan tebesar dari tiga b
 <h3>Output Program</h3>
 
 ![img]
+
+<h3>Sekian Terimakasih</h3>
