@@ -21,7 +21,7 @@ Pada program di atas merupakan program untuk mecari bilangan tebesar dari tiga b
 Jika bilangan pertama lebih besar dari bilangan kedua dan bilangan pertama lebih besar dari bilangan ketiga, maka hasil yang akan ditampilkan adalah "Angka Pertama Lebih Besar".
 
 3. Pada statement :
-![img] screenshot/5.png
+![Gambar 3](screenshot/5.png)
 Jika bilangan kedua lebih besar dari bilangan ketiga dan bilangan kedua lebih besar dari bilangan pertama, maka hasil yang akan ditampilkan adalah "Angka Kedua Lebih Besar".
 
 4. Jika di luar dari statement diatas maka yang akan ditampilkan adalah "Angka Ketiga Lebih Besar".
